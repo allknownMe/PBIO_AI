@@ -1,4 +1,4 @@
-# s11111_2025.py
+# s25184_2025.py
 # Cel programu: Generowanie losowej sekwencji DNA zapisanej w formacie FASTA, wraz z analizą zawartości nukleotydów.
 # Kontekst: Program do zastosowania edukacyjnego w bioinformatyce – poznanie formatu FASTA i analizy sekwencji DNA.
 
